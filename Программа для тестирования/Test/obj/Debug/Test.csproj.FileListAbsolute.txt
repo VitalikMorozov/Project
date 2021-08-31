@@ -1,0 +1,22 @@
+C:\Users\Виктор\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Виктор\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.Тест.resources
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.Главная.resources
+C:\Users\Виктор\Desktop\Test\Test\obj\Debug\Test.Редактор.resources
+D:\Курсач\Тест 1\Test\bin\Debug\Test.exe
+D:\Курсач\Тест 1\Test\bin\Debug\Test.pdb
+D:\Курсач\Тест 1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Курсач\Тест 1\Test\obj\Debug\Test.Тест.resources
+D:\Курсач\Тест 1\Test\obj\Debug\Test.Главная.resources
+D:\Курсач\Тест 1\Test\obj\Debug\Test.Редактор.resources
+D:\Курсач\Тест 1\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Курсач\Тест 1\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Курсач\Тест 1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Курсач\Тест 1\Test\obj\Debug\Test.exe
+D:\Курсач\Тест 1\Test\obj\Debug\Test.pdb
